@@ -1,1 +1,2 @@
 # Hardware-Compatibility-Checker
+It's an in-house app I Co-developed for Winona State Universtity that Winona State University Technical Support staff uses to verify whether any personal student or employee computer meets minimum specs and standards for campus usage scenarios. 	Behind its simple and intuitive user interface it runs a PowerShell script to check status of the RAM, Hard Disk Storage, Windows version, screen resolution, Wi-fi adapter, and Microsoft Office version and compare them with the minimum requirement for using a personal laptop at WSU.
